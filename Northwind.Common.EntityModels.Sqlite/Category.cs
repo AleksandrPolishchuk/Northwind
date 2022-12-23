@@ -32,4 +32,3 @@ namespace Packt.Shared
         public virtual ICollection<Product> Products { get; set; }
     }
 }
-

@@ -25,13 +25,13 @@ namespace Northwind.Mvc.Controllers
             _logger.LogWarning("Second warning!");
             _logger.LogInformation("I am in the Index method of the HomeController.");
 
-            /*
+            
             HomeIndexViewModel model = new
             (
                 VisitorCount: Random.Shared.Next(1, 1001),
                 Categories: db.Categories.ToList(),
                 Products: db.Products.ToList()
-            );*/
+            );
 
             return View();
         }
