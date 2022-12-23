@@ -4,24 +4,32 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Packt.Shared;
-
-[Index("CategoryName", Name = "CategoryName")]
-public partial class Category
+namespace Packt.Shared
 {
-    [Key]
-    public int CategoryId { get; set; }
-    [Required]
-    [Column(TypeName = "nvarchar (15)")]
-    [StringLength(15)]
-    public string CategoryName { get; set; } = null!;
+    [Index("CategoryName", Name = "CategoryName")]
+    public partial class Category
+    {
+        public Category()
+        {
+            Products = new HashSet<Product>();
+        }
 
-    [Column(TypeName = "ntext")]
-    public string? Description { get; set; }
+        [Key]
+        public int CategoryId { get; set; }
 
-    [Column(TypeName = "image")]
-    public byte[]? Picture { get; set; }
+        [Required]
+        [Column(TypeName = "nvarchar (15)")]
+        [StringLength(15)]
+        public string CategoryName { get; set; } = null!;
 
-    [InverseProperty("Category")]
-    public virtual ICollection<Product> Products { get; } = new List<Product>();
+        [Column(TypeName = "ntext")]
+        public string? Description { get; set; }
+
+        [Column(TypeName = "image")]
+        public byte[]? Picture { get; set; }
+
+        [InverseProperty("Category")]
+        public virtual ICollection<Product> Products { get; set; }
+    }
 }
+
