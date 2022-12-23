@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Northwind.Mvc.Data;
-// add comments
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

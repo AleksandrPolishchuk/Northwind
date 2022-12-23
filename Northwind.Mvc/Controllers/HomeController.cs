@@ -15,6 +15,10 @@ namespace Northwind.Mvc.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogError("This is a serious error (not really!)");
+            _logger.LogWarning("This is your first warning!");
+            _logger.LogWarning("Second warning!");
+            _logger.LogInformation("I am in the Index method of the HomeController.");
             return View();
         }
 
