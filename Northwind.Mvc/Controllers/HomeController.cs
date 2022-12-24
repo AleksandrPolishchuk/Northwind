@@ -73,6 +73,7 @@ namespace Northwind.Mvc.Controllers
             return View(); // the page with a form to submit
         }
 
+        [HttpPost] // use this action method to process POSTs
         public IActionResult ModelBinding(Thing thing)
         {
             return View(thing); // show the model bound thing
