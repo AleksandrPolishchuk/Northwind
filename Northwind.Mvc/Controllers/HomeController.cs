@@ -26,7 +26,7 @@ namespace Northwind.Mvc.Controllers
             _logger.LogWarning("Second warning!");
             _logger.LogInformation("I am in the Index method of the HomeController.");
 
-            
+
             HomeIndexViewModel model = new
             (
                 VisitorCount: Random.Shared.Next(1, 1001),
@@ -76,7 +76,13 @@ namespace Northwind.Mvc.Controllers
         [HttpPost] // use this action method to process POSTs
         public IActionResult ModelBinding(Thing thing)
         {
-            return View(thing); // show the model bound thing
+            HomeModelBindingViewModel model = new(
+              Thing: thing, HasErrors: !ModelState.IsValid,
+              ValidationErrors: ModelState.Values
+                .SelectMany(state => state.Errors)
+                .Select(error => error.ErrorMessage)
+            );
+            return View(model);
         }
     }
 }
