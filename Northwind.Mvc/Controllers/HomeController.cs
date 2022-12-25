@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Northwind.Mvc.Models;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization; // [Authorize]
 using Packt.Shared; // NorthwindContext
 using Microsoft.EntityFrameworkCore;
 
