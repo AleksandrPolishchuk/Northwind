@@ -3,13 +3,30 @@
 @{
     ViewData["Title"] = "Home Page";
     string currentItem = "";
-    //WeatherForecast[]? weather = ViewData["weather"] as WeatherForecast[];
+    WeatherForecast[]? weather = ViewData["weather"] as WeatherForecast[];
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p class="alert alert-primary">@DateTime.Now.ToLongTimeString()</p>
-
+    <p>
+        <h4>Five-Day Weather Forecast</h4>
+        @if ((weather is null) || (!weather.Any()))
+        {
+        <p>No weather forecasts found.</p>
+        }
+        else
+        {
+        <table class="table table-info">
+            <tr>
+                    @foreach (WeatherForecast w in weather)
+                    {
+                    <td>@w.Date.ToString("ddd d MMM") will be @w.Summary</td>
+                    }
+            </tr>
+        </table>
+        }
+    </p>
     <p><a asp-action="ModelBinding" asp-controller="Home">Binding</a></p>
 </div>
 

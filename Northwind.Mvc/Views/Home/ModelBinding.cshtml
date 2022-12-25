@@ -1,16 +1,16 @@
 ﻿@model Northwind.Mvc.Models.HomeModelBindingViewModel
 @{
-	ViewData["Title"] = "Model Binding Demo";
+    ViewData["Title"] = "Model Binding Demo";
 }
 <h1>@ViewData["Title"]</h1>
 <div>
-	Enter values for your thing in the following form:
+    Enter values for your thing in the following form:
 </div>
-<form method="POST" action="/home/modelbinding/2?id=3">
-	<input name="id" value="1" />
-	<input name="color" value="Red" />
-	<input name="email" value="test@example.com" />
-	<input type="submit" />
+<form method="POST" action="/home/modelbinding?id=3">
+    <input name="id" value="1" />
+    <input name="color" value="Red" />
+    <input name="email" value="test@example.com" />
+    <input type="submit" />
 </form>
 @if (Model is not null)
 {

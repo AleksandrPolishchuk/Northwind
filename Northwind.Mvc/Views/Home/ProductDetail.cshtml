@@ -1,22 +1,23 @@
-﻿@model Packt.Shared.Product 
+﻿@model Packt.Shared.Product
 @{
     ViewData["Title"] = "Product Detail - " + Model.ProductName;
 }
 <h2>Product Detail</h2>
 <p class="alert alert-@ViewData["alertstyle"]">
-    @DateTime.Now.ToLongTimeString()</p>
+    @DateTime.Now.ToLongTimeString()</
+p>
 <hr />
 <div>
-  <dl class="dl-horizontal">
-    <dt>Product Id</dt>
-    <dd>@Model.ProductId</dd>
-    <dt>Product Name</dt>
-    <dd>@Model.ProductName</dd>
-    <dt>Category</dt>
-    <dd>@Model.CategoryId - @Model.Category.CategoryName</dd>
-    <dt>Unit Price</dt>
-    <dd>@Model.UnitPrice.Value.ToString("C")</dd>
-    <dt>Units In Stock</dt>
-    <dd>@Model.UnitsInStock</dd>
-  </dl>
+    <dl class="dl-horizontal">
+        <dt>Product Id</dt>
+        <dd>@Model.ProductId</dd>
+        <dt>Product Name</dt>
+        <dd>@Model.ProductName</dd>
+        <dt>Category</dt>
+        <dd>@Model.CategoryId - @Model.Category.CategoryName</dd>
+        <dt>Unit Price</dt>
+        <dd>@Model.UnitPrice.Value.ToString("C")</dd>
+        <dt>Units In Stock</dt>
+        <dd>@Model.UnitsInStock</dd>
+    </dl>
 </div>

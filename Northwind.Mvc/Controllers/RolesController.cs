@@ -13,7 +13,7 @@ public class RolesController : Controller
     private readonly UserManager<IdentityUser> userManager;
 
     public RolesController(RoleManager<IdentityRole> roleManager,
-        UserManager<IdentityUser> userManager)
+      UserManager<IdentityUser> userManager)
     {
         this.roleManager = roleManager;
         this.userManager = userManager;
@@ -25,14 +25,17 @@ public class RolesController : Controller
         {
             await roleManager.CreateAsync(new IdentityRole(AdminRole));
         }
-        IdentityUser user = await userManager.FindByEmailAsync(UserEmail);
+        IdentityUser? user = await userManager.FindByEmailAsync(UserEmail);
+
         if (user == null)
         {
             user = new();
             user.UserName = UserEmail;
             user.Email = UserEmail;
+
             IdentityResult result = await userManager.CreateAsync(
-            user, "Pa$$w0rd");
+              user, "Pa$$w0rd");
+
             if (result.Succeeded)
             {
                 WriteLine($"User {user.UserName} created successfully.");
