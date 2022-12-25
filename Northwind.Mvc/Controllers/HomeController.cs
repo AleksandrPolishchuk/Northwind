@@ -19,20 +19,20 @@ namespace Northwind.Mvc.Controllers
             db = injectedContext;
         }
 
-
-        public IActionResult Index()
+        [ResponseCache(Duration = 10 /* seconds */,
+        Location = ResponseCacheLocation.Any)]
+        public async Task<IActionResult> Index()
         {
             _logger.LogError("This is a serious error (not really!)");
             _logger.LogWarning("This is your first warning!");
             _logger.LogWarning("Second warning!");
             _logger.LogInformation("I am in the Index method of the HomeController.");
 
-
             HomeIndexViewModel model = new
             (
-                VisitorCount: Random.Shared.Next(1, 1001),
-                Categories: db.Categories.ToList(),
-                Products: db.Products.ToList()
+              VisitorCount: Random.Shared.Next(1, 1001),
+              Categories: await db.Categories.ToListAsync(),
+              Products: await db.Products.ToListAsync()
             );
 
             return View();
@@ -88,27 +88,27 @@ namespace Northwind.Mvc.Controllers
             return View(model);
         }
 
-        public IActionResult ProductsThatCostMoreThan(decimal? price)
-        {
-            if (!price.HasValue)
-            {
-                return BadRequest("You must pass a product price in the query string, for example, /Home/ProductsThatCostMoreThan?price=50");
-            }
+         public IActionResult ProductsThatCostMoreThan(decimal? price)
+         {
+         if (!price.HasValue)
+         {
+           return BadRequest("You must pass a product price in the query string, for example, /Home/ProductsThatCostMoreThan?price=50");
+         }
 
-            IEnumerable<Product> model = db.Products
-              .Include(p => p.Category)
-              .Include(p => p.Supplier)
-              .Where(p => p.UnitPrice > price);
+         IEnumerable<Product> model = db.Products
+            .Include(p => p.Category)
+            .Include(p => p.Supplier)
+            .Where(p => p.UnitPrice > price);
 
-            if (!model.Any())
-            {
-                return NotFound(
-                  $"No products cost more than {price:C}.");
-            }
+         if (!model.Any())
+         {
+            return NotFound(
+              $"No products cost more than {price:C}.");
+         }
 
-            ViewData["MaxPrice"] = price.Value.ToString("C");
+         ViewData["MaxPrice"] = price.Value.ToString("C");
 
-            return View(model); // pass model to view
-        }
+         return View(model); // pass model to view
+         }
     }
 }
