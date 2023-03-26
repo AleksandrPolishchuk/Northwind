@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EElyQdR9cv2887Z/uX66fZrELqvbE6Of20HQrFPMhgRd7LR4x6+i56wBjQOFQjt7gRoHU5KcCWPCZs4vZssUjA==",
+  "dgSpecHash": "IZvocq6UQp6B2ypVuxGQql0/Ih6gcI/1A4rs4BoVGGvySwOccZeYLvVq+/XFEMrtF6iUoGS/+Y4W4Nwq0t1ODQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

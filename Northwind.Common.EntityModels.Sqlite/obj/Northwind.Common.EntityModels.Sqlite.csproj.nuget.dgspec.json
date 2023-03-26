@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {}
+    "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
+    "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectUniqueName": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "projectName": "Northwind.Common.EntityModels.Sqlite",
-        "projectPath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
+        "projectPath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
         "packagesPath": "C:\\Users\\HS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.EntityModels.Sqlite\\obj\\",
+        "outputPath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.EntityModels.Sqlite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HS\\AppData\\Roaming\\NuGet\\NuGet.Config",

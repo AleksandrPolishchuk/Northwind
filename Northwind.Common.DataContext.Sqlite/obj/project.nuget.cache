@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iW2xQWpqrkHwI4GOnLA32n1om9tOkLrxisWzaDXVkMljw/EcditVMMkQ/jWOflvllfYHbUp1pVYs9RWg85UWfw==",
+  "dgSpecHash": "xKFEEsjW8IIYAC/sOFHkzL6Xo52e2pBHinI32HCMBReGKZjiVsncikin2T3v9UOFjcUlFQtdaNhsbdfhNYdGCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
+  "projectFilePath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\HS\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

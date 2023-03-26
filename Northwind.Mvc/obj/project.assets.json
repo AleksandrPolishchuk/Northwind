@@ -4268,11 +4268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "projectName": "Northwind.Mvc",
-      "projectPath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectPath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "packagesPath": "C:\\Users\\HS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\",
+      "outputPath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4289,8 +4289,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
-              "projectPath": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
+            "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj": {
+              "projectPath": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Common.DataContext.Sqlite\\Northwind.Common.DataContext.Sqlite.csproj"
             }
           }
         }
