@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IIGNu9X5dMB+EOMYiJfLBjExp4ycdrbq9jrKZVmA8+U=",
+  "Hash": "c1NPW51fC777WQ27+1gneaQ49s7O1GAoJwoSzpUY3PY=",
   "Source": "Northwind.Mvc",
   "BasePath": "_content/Northwind.Mvc",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Northwind.Mvc\\wwwroot",
       "Source": "Northwind.Mvc",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\HS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Mvc.styles.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Mvc.styles.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "Northwind.Mvc.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Mvc.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Northwind.Mvc.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Mvc.bundle.scp.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Mvc.bundle.scp.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "Northwind.Mvc.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Mvc.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Northwind.Mvc.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\css\\site.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\favicon.ico",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\categories.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\categories.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/categories.jpeg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category1.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category1.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category1.jpeg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category2.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category2.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category2.jpeg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category3.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category3.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category3.jpeg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category4.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category4.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category4.jpeg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category5.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category5.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category5.jpeg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category5.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category6.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category6.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category6.jpeg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category6.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category7.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category7.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category7.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category7.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category8.jpeg",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\images\\category8.jpeg",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "images/category8.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\category8.jpeg"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\js\\site.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Northwind.Mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HS\\source\\repos\\Northwind\\Northwind.Mvc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\Northwind\\Northwind.Mvc\\wwwroot\\",
       "BasePath": "_content/Northwind.Mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
