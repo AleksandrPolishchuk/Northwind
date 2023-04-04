@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc.Formatters; // IOutputFormatter, OutputFormatter
 using Packt.Shared; // AddNorthwindContext extension method
 using Northwind.WebApi.Repositories; // ICustomerRepository, CustomerRepository
+using Swashbuckle.AspNetCore.SwaggerUI;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,7 +42,14 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json",
+          "Northwind Service API Version 1");
+        c.SupportedSubmitMethods(new[] {
+      SubmitMethod.Get, SubmitMethod.Post,
+      SubmitMethod.Put, SubmitMethod.Delete });
+    });
 }
 
 app.UseHttpsRedirection();
