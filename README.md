@@ -1,1 +1,1 @@
-ASP.NET Core 7
+Example app of ASP.NET Core 7
